@@ -1826,7 +1826,7 @@ function Credit({ M }) {
                 name="Borrowell"
                 blurb="Check your credit score free — a soft pull that never affects it."
                 cta="Check free"
-                href="https://borrowell.com/?ref=YOUR_REFERRAL_CODE"
+                href="https://borrowell.com/refer-a-friend/free-credit-score?utm_campaign=Refer5&utm_medium=web&utm_source=refer2022-241337"
                 accent={C.mint}
               />
             </div>
