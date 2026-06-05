@@ -1748,7 +1748,7 @@ function SavingsPlanner({ M, market, profile, patch }) {
                   name="Wealthsimple — open an FHSA"
                   blurb="The only account that's tax-deductible going in AND tax-free coming out. $8K/yr toward your first home. Open one in minutes."
                   cta="Open FHSA"
-                  href="https://www.wealthsimple.com/invest/fhsa?ref=YOUR_REFERRAL_CODE"
+                  href="https://www.wealthsimple.com/invest/fhsa?ref=MRQONW"
                   accent={C.mint}
                 />
               </div>
